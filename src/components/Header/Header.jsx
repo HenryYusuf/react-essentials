@@ -1,5 +1,8 @@
 // Image
-import reactImg from "../assets/react-core-concepts.png";
+import reactImg from "../../assets/react-core-concepts.png";
+
+// Css
+import "./Header.css";
 
 // Array
 const reactDescription = ["Fundamental", "Crucial", "Core"];
